@@ -17,3 +17,13 @@ function [Magnitude,X_Component,Y_Component] = Image_Convolution(Image,Kernel_Op
 
 
 ## Converting the Horizontal Gradient to a Vertical Gradient
+```Matlab
+Kernel_X = Kernel_Operator; 
+Kernel_Y = flip(transpose(Kernel_X)); 
+Kernel_Width =  length(Kernel_Operator);
+
+Vertical_Mirror = 2;
+Horizontal_Mirror = 1;
+Kernel_X = flip(Kernel_X,Vertical_Mirror);
+Kernel_Y = flip(Kernel_Y,Horizontal_Mirror);
+```
