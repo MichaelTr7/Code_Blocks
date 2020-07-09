@@ -6,4 +6,6 @@ Folders:
 Importing Video Files - Grabs frames of video (mp4, mov, avi, etc) and stores in structure ready for processing/analysis
 
 
-![](Fourier Transform Scaled\Scaled_Fourier_Transform.png)
+### Folder: Scaled Fourier Transform
+  <img src="Scaled Fourier Transform/Scaled_Fourier_Transform.png" width = "600">
+
