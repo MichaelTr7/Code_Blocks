@@ -3,7 +3,7 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 
 
 ### Folder: Importing Video Files
-• Grabs frames of video (mp4, mov, avi, etc) and stores in structure ready for processing/analysis
+• Grabs frames of video (mp4, mov, avi, etc) and stores in structure ready for processing/analysis.
 
 |<img src="README Images/Import_Video_Frames.png" width = "600">|<img src="README Images/Import_Video_Frames.gif" width = "600">|
 |---|---|
@@ -11,6 +11,7 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 
 ### Folder: Scaled Fourier Transform
 • Generates the Fourier Transform of a sinusoidal signal dependent on sampling frequency.
+<br/>
 • Uses the DSB (Double Side Band) form of showing the transform.
 
 
