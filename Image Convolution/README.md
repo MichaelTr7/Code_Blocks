@@ -1,1 +1,1 @@
-# Image Convolution
+# Image Convolution/Spatial Filtering Tutorial
