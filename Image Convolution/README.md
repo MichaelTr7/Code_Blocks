@@ -1,4 +1,4 @@
-# Image Convolution/Spatial Filtering Tutorial
+# Image Convolution/Spatial Filtering Important Components
 
 
 ## Function call
