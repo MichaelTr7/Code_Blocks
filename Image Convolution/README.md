@@ -54,3 +54,7 @@ Right_Padding = zeros(Image_Height+2*Padding_Factor,Padding_Factor);
 Padded_Image = horzcat(Left_Padding,Padded_Image);
 Padded_Image = horzcat(Padded_Image,Right_Padding);
 ```
+## For-Loop to Convolve the Kernel with the Image
+
+
+
