@@ -7,7 +7,7 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 
 |||
 |--|--|
-|<img src="README Images/Import_Video_Frames.png" width = "600">|<img src="README Images/" width = "600">|
+|<img src="README Images/Import_Video_Frames.png" width = "600">|<img src="README Images/Import_Video_Frames.gif" width = "600">|
 
 
 
