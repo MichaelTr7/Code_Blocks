@@ -9,7 +9,3 @@ title('Image Database Collection');
 
 %Playing the frames stored in the structure%
 implay(Video_Structure);
-
-
-
-
