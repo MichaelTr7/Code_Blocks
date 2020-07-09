@@ -1,5 +1,5 @@
-MATLAB-Multimedia-Functions
-A repository containing many useful MATLAB functions pertaining to multimedia including image/signal/video processing.
+MATLAB Multimedia Functions
+<b> A repository containing many useful MATLAB functions pertaining to multimedia including image/signal/video processing.
 
 Folders: 
 
