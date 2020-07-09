@@ -56,5 +56,3 @@ Padded_Image = horzcat(Padded_Image,Right_Padding);
 ```
 ## For-Loop to Convolve the Kernel with the Image
 
-
-
