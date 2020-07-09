@@ -5,6 +5,14 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 ### Folder: Importing Video Files
 • Grabs frames of video (mp4, mov, avi, etc) and stores in structure ready for processing/analysis
 
+|||
+|--|--|
+|<img src="README Images/Import_Video_Frames.png" width = "600">|<img src="README Images/" width = "600">|
+
+
+
+
+
 ### Folder: Scaled Fourier Transform
 • Generates the Fourier Transform of a sinusoidal signal dependent on sampling frequency.
 <br>
@@ -14,7 +22,7 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 
 |Fourier Transform Sinusoid Frequency = 50Hz at Sampling Frequency = 1000Hz|Fourier Transform Sinusoid Frequency = 200Hz at Sampling Frequency = 1000Hz|
 |--|--|
-|<img src="Scaled Fourier Transform/Scaled_Fourier_Transform.png" width = "600">|<img src="Scaled Fourier Transform/Scaled_Fourier_Transform_2.png" width = "600">|
+|<img src="README Images/Scaled_Fourier_Transform.png" width = "600">|<img src="README Images/Scaled_Fourier_Transform_2.png" width = "600">|
 
 
 
