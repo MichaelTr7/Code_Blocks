@@ -11,5 +11,11 @@ Folders:
 <br>
 • Uses the DSB (Double Side Band) form of showing the transform.
 
-<img src="Scaled Fourier Transform/Scaled_Fourier_Transform.png" width = "600">
+
+
+|Fourier Transform Sinusoid Frequency = 50Hz at Sampling Frequency = 1000Hz|Fourier Transform Sinusoid Frequency = 200Hz at Sampling Frequency = 1000Hz|
+|--|--|
+|<img src="Scaled Fourier Transform/Scaled_Fourier_Transform.png" width = "600">|<img src="Scaled Fourier Transform/Scaled_Fourier_Transform_2.png" width = "600">|
+
+
 
