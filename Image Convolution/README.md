@@ -12,3 +12,6 @@ function [Magnitude,X_Component,Y_Component] = Image_Convolution(Image,Kernel_Op
 Example Inputs
 
 <img src="README Images/Input_Image.png" width = "200">
+
+
+<img src="README Images/Sobel Operator.png" width = "200">
