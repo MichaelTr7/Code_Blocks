@@ -20,4 +20,12 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 |<img src="README Images/Scaled_Fourier_Transform.png" width = "600">|<img src="README Images/Scaled_Fourier_Transform_2.png" width = "600">|
 
 
+### Folder: 3D-Plots in MATLAB App-Designer
+• Plots spheres and circles on a 3D axes with adjustable centre positions
+
+
+|Circle 3D Plot|Sphere 3D Plot|
+|--|--|
+|<img src="README Images/3D_Circle.png" width = "600">|<img src="README Images/3D_Sphere.png" width = "600">|
+
 
