@@ -23,7 +23,8 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 [Source Files: Scaled Fourier Transform](https://github.com/MichaelTr7/MATLAB-Multimedia-Functions/tree/master/Scaled%20Fourier%20Transform)
 
 ### Folder: 3D-Plots in MATLAB App-Designer
-• Plots spheres and circles on a 3D axes with adjustable centre positions
+• Plots spheres and circles on a 3D axes with adjustable centre positions.
+• Can plot wireframes of shell shaded plots using surf.
 
 
 |Circle Wireframe 3D-Plot|Sphere Wireframe 3D-Plot|Sphere Surf 3D-Plot|
