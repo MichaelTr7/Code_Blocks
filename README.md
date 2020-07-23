@@ -26,9 +26,9 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 • Plots spheres and circles on a 3D axes with adjustable centre positions
 
 
-|Circle 3D-Plot|Sphere 3D-Plot|
-|--|--|
-|<img src="README Images/3D_Circle.png" width = "500">|<img src="README Images/3D_Sphere.png" width = "500">|
+|Circle Wireframe 3D-Plot|Sphere Wireframe 3D-Plot|Sphere Surf 3D-Plot|
+|--|--|--|
+|<img src="README Images/3D_Circle.png" width = "500">|<img src="README Images/3D_Sphere.png" width = "500">|<img src="README Images/3D_Sphere_Surf.png" width = "500">|
 
 [Source Files: 3D-Plots in MATLAB App-Designer](https://github.com/MichaelTr7/MATLAB-Multimedia-Functions/tree/master/3D-Plots%20in%20Matlab%20App-Designer)
 
