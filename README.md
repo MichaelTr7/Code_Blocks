@@ -20,7 +20,7 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 |--|--|
 |<img src="README Images/Scaled_Fourier_Transform.png" width = "600">|<img src="README Images/Scaled_Fourier_Transform_2.png" width = "600">|
 
-[Source Files: Importing Video Files](Scaled Fourier Transform)
+[Source Files: Scaled Fourier Transform](https://github.com/MichaelTr7/MATLAB-Multimedia-Functions/tree/master/Scaled%20Fourier%20Transform)
 
 ### Folder: 3D-Plots in MATLAB App-Designer
 • Plots spheres and circles on a 3D axes with adjustable centre positions
