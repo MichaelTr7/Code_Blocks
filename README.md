@@ -24,7 +24,7 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 • Plots spheres and circles on a 3D axes with adjustable centre positions
 
 
-|Circle 3D Plot|Sphere 3D Plot|
+|Circle 3D-Plot|Sphere 3D-Plot|
 |--|--|
 |<img src="README Images/3D_Circle.png" width = "500">|<img src="README Images/3D_Sphere.png" width = "500">|
 
