@@ -37,7 +37,6 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 
 ### Folder: MATLAB App-Designer User Set Table
 • Takes in table headers/labels and creates a table of N by N size where, N is equal to the number of table headers/labels. <br/>
-<br/>
 <p align = 'center'><img src="README Images/User Size Chosen Table.png" width = "300"></p> 
 
 
