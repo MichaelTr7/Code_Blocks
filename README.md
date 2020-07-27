@@ -33,3 +33,14 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 
 [Source Files: 3D-Plots in MATLAB App-Designer](https://github.com/MichaelTr7/MATLAB-Multimedia-Functions/tree/master/3D-Plots%20in%20Matlab%20App-Designer)
 
+
+
+### Folder: MATLAB App-Designer User Set Table
+• Takes in table headers/labels and creates a table of N by N size where, N is equal to the number of table headers/labels. <br/>
+<br/>
+<img src="README Images/User Size Chosen Table.png" width = "300">
+
+
+
+
+
