@@ -41,6 +41,24 @@ A repository containing various MATLAB functions pertaining to multimedia includ
 
 [Source Files: MATLAB App-Designer User Set Table](https://github.com/MichaelTr7/MATLAB-Multimedia-Functions/tree/master/MATLAB%20App-Designer%20User%20Set%20Table)
 
+### Folder: Script to Strip Location Data from Smartphone Photos
+
+```
+%Script to strip location data of a folder of images%
+
+%Directory path where the images are stored in a folder%
+Directory_Path = "";
+Image_File_Names = [dir("*.png")' dir("*.jpg")'];
+
+
+for Image_Index = 1: length(Image_File_Names)
+
+Image = imread(Image_File_Names(Image_Index).name);
+Path = ['/Users/michael/Desktop/Exported_Images/Image' num2str(Image_Index) '.png'];
+imwrite(Image,Path,'Mode','lossless');
+
+end
+```
 
 
 
